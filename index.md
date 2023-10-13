@@ -36,7 +36,9 @@ __Hong Kong Baptist University, Teaching English as a Second Language (Transferr
 `2017` 
 __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Studio__
 > Pioneered in-depth archival dives into the Shaw Brothers studio' transformative journey from the 1920s to 1980s.
+
 > Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
+
 > Showcased findings at a pivotal graduate symposium on Asian film history.
 
 `2016` 
