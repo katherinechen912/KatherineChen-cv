@@ -91,6 +91,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > -Finalist: Rome Prisma Film Awards
 
 ### Promise Me
+### [[video preview](https://youtu.be/VDJEbO3byPg)]
 `2019` 
 > -Official Selections: San Francisco Short, etc. (7 in total)
 
@@ -99,6 +100,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > -Award Winner: Falcon International Film Fest
 
 ### Memories
+### [[video preview](https://youtu.be/W8IQD60tcD8)]
 `2018` 
 > -Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
 
@@ -107,12 +109,28 @@ __Auteur Theory and Cinematic Styles Analysis__
 > -Award Winner: Feel The Reel International Film Fest
 
 ### The Sword in Qin
+### [[video preview](https://youtu.be/FnCVFK1JDrY)]
 `2018` 
 > -Official Selections: Bharat International Film Fest, etc. (6 in total) 
 
 > -Semi-Finalist: ShanghaiPRIDE Film Festival
 
 > -Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
+
+### Coporeal
+### [[video preview](https://youtu.be/4fvArbg5GW0)]
+`2017` 
+> -Official Selections: Diabolical Horror Film Fest, etc. (3 in total)
+
+### Evelyn
+### [[video preview](https://youtu.be/qj0MUfaKbw8)]
+`2016` 
+> -Official Selections: Chilliwack Independent Fest
+
+### And Now Makes Three
+### [[video preview](https://vimeo.com/159316215)]
+`2016` 
+> -Official Selections: Sidewalk Film Fest
 
 ## Employment
 
@@ -176,24 +194,32 @@ __Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Gu
 __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
-
-* Video editing: Premiere, After Effects,
-
-  DaVinci Resolve, Final Cut Pro
-
-* Audio editing: Audition, Pro Tools
-
-* Graphic design: Photoshop, Procreate,
-
-  Spline, Mental Canvas 
-
-* Design tool: Figma, Adobe Illustrator
-
-* Movie budgeting/scheduling: MM Budgeting/Scheduling
-
-* 3D modeling: C4D, Blender, Unreal Engine
-
-* Programming language: Python, C++
+### Video editing
+* Premiere
+* After Effects
+* DaVinci Resolve
+* Final Cut Pro
+### Audio editing
+* Audition
+* Pro Tools
+### Graphic design
+* Photoshop
+* Procreate
+* Spline
+* Mental Canvas 
+### Design tool
+* Figma
+* Adobe Illustrator
+### Movie budgeting/scheduling
+* MM Budgeting
+* MM Scheduling
+### 3D modeling
+* C4D
+* Blender
+* Unreal Engine
+### Programming language
+* Python
+* C++
 
 ## Language
 
