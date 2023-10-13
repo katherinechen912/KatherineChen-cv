@@ -13,19 +13,19 @@ title: Yujun/Katherine Chen's CV
 </div>
 
 ## Research interests
-Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
+>  Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
 ## Education
 
 `2015-2019`
 __DePaul University, Master of Fine Art in Film.__
 
-> GPA 3.79/4 MBA: Operation Management, Marketing 
+>  GPA 3.79/4 MBA: Operation Management, Marketing 
 
 `2013-2015`
 __Hong Kong Baptist University, Bachelor of Cinema and Television__
 
-> Relevant Coursework: Mass Communication; Media Research Methods
+>  Relevant Coursework: Mass Communication; Media Research Methods
 
 `2011-2013`
 __Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
@@ -43,7 +43,7 @@ __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Stud
 
 `2016` 
 __DePaul University, College of Computing and Digital Media__
-> -Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
+> - Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
 
 > - Authored ten reports on global film adaptations, underscoring distribution trends and audience shifts.
 
