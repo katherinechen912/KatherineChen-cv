@@ -42,10 +42,15 @@ __Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Stud
 `2016` 
 __DePaul University, College of Computing and Digital Media__
 > Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
+
 > Authored ten reports on global film adaptations, underscoring distribution trends and audience shifts.
+
 > Orchestrated research on story frameworks, dissecting conventional narrative arcs and the hero's journey.
+
 > Crafted 8+ script coverage, pinpointing strengths and areas of improvement in peer submissions.
+
 > Conducted analyses of over 50 films, extracting genre, plot, and cinematic evolution insights.
+
 > Piloted 20+ film projects, infusing research insights into the cinematic narrative.
 
 ### Undergraduate researcher
