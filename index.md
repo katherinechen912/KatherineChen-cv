@@ -84,6 +84,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 > -Award Winner: Tripvill International, Independent-Star Munich
 
 ### Bury
+### [[video preview](https://youtu.be/vQkkPUOiRms)]
 `2019` 
 > -Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
 
