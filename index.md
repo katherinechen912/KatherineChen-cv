@@ -111,37 +111,37 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 ## Employment
 
-`2023.02-` 
+`2023-` 
 __Yalong International__ Senior Manager, Mobile Game Distribution
 > Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
 
 > Refined strategies based on user requirements to enhance business outcomes and stay ahead of industry shifts.
 
-`2021.11-2023.02` 
+`2021-2023` 
 __Ernst & Young EY wavespace™__ Videographer, Editor, and Designer 
 > Spearheaded video projects for clients like Shiseido, Dow, and Dior, transforming visions into visual narratives.
 
 > Led in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
 
-`2020.09-2021.10` 
+`2020-2021` 
 __Y-Platform (Multi-channel network)__ Producer
 > Crafted 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
 
 > Streamlined coordination among crew, influencers, and clients like Peking University and People's Daily. 
 
-`2017.03-2020.08` 
+`2017-2020` 
 __Homy Casa, Inc.__ Project Coordinator, Photographer				
 > Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
 
-`2016.06-2016.08` 
+`2016` 
 __Stagecoach Entertainment__ Script Reader						 	
 > Analyzed scripts, offering coverage of critical elements and pinpointing potential hits for varied audiences.
 
-`2015.05 - 2015.08` 
+`2015` 
 __Phoenix Satellite Television__ Documentary Director						 	
 >Directed and edited documentaries, ensuring compelling narratives and top-tier production quality.
 
-`2015.05 - 2015.08` 
+`2015` 
 __Xiamen Television Station__ News Director						 	
 >Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
 
