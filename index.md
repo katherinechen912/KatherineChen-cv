@@ -123,8 +123,7 @@ __Ernst & Young EY wavespace™__ Videographer, Editor, and Designer
 
 > Led in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
 
-`2020.09
--2021.10` 
+`2020.09-2021.10` 
 __Y-Platform (Multi-channel network)__ Producer
 > Crafted 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
 
