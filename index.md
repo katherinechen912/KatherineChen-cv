@@ -20,7 +20,7 @@ title: Yujun/Katherine Chen's CV
 `2015-2019`
 __DePaul University, Master of Fine Art in Film.__
 
-> - GPA 3.79/4 MBA: Operation Management, Marketing 
+> -GPA 3.79/4 MBA: Operation Management, Marketing 
 
 `2013-2015`
 __Hong Kong Baptist University, Bachelor of Cinema and Television__
@@ -59,15 +59,15 @@ __DePaul University, College of Computing and Digital Media__
 
 `2015` 
 __Copyright Awareness and Media Download Behavior among College Students in China__
-> - Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
+> -  Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
 
-> - Generated a report on China's copyright evolution, intellectual property, and media piracy.
+> -  Generated a report on China's copyright evolution, intellectual property, and media piracy.
 
 `2014` 
 __Auteur Theory and Cinematic Styles Analysis__
-> - Spearheaded a comparative study of Ingmar Bergman and Robert Bresson's styles using film analysis tools.
+> -  Spearheaded a comparative study of Ingmar Bergman and Robert Bresson's styles using film analysis tools.
 
-> - Delved into Billy Wilder's film style and thematic evolution to highlight his cinematic legacy.
+> -  Delved into Billy Wilder's film style and thematic evolution to highlight his cinematic legacy.
 
 > - Scrutinized the strategic color usage in Yi-Mou Zhang's "Red Sorghum" and its narrative impact.
 
