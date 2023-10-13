@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Katherine Chen's CV
+title: Yujun/Katherine Chen's CV
 ---
 # Yujun/Katherine Chen
 
@@ -11,7 +11,6 @@ title: Katherine Chen's CV
 |
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
 </div>
-
 ## Research interests
 
 Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
