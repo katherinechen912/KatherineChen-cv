@@ -20,12 +20,12 @@ title: Yujun/Katherine Chen's CV
 `2015-2019`
 __DePaul University, Master of Fine Art in Film.__
 
->  GPA 3.79/4 MBA: Operation Management, Marketing 
+> - GPA 3.79/4 MBA: Operation Management, Marketing 
 
 `2013-2015`
 __Hong Kong Baptist University, Bachelor of Cinema and Television__
 
->  Relevant Coursework: Mass Communication; Media Research Methods
+> - Relevant Coursework: Mass Communication; Media Research Methods
 
 `2011-2013`
 __Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
@@ -75,7 +75,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 ## Film experience
 ### Dust in the Wind
-### [[video preview](https://vimeo.com/421269223)]
+[[video preview](https://vimeo.com/421269223)]
 `2020` 
 > - Official Selections: Orlando International Film Fest, etc. (9 in total)
 
