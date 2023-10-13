@@ -2,7 +2,7 @@
 layout: cv
 title: Katherine Chen's CV
 ---
-# Katherine Chen
+# Yujun/Katherine Chen
 
 <div id="webaddress">
 <a href="mailto:Katherinechan912@gmail.com">Email</a>
