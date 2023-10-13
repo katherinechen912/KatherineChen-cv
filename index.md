@@ -20,12 +20,12 @@ Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmi
 `2015-2019`
 __DePaul University, Master of Fine Art in Film.__
 
-GPA 3.79/4 MBA: Operation Management, Marketing 
+> GPA 3.79/4 MBA: Operation Management, Marketing 
 
 `2013-2015`
 __Hong Kong Baptist University, Bachelor of Cinema and Television__
 
-Relevant Coursework: Mass Communication; Media Research Methods
+> Relevant Coursework: Mass Communication; Media Research Methods
 
 `2011-2013`
 __Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
@@ -58,6 +58,7 @@ __DePaul University, College of Computing and Digital Media__
 `2015` 
 __Copyright Awareness and Media Download Behavior among College Students in China__
 > Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
+
 > Generated a report on China's copyright evolution, intellectual property, and media piracy.
 
 `2014` 
@@ -71,30 +72,39 @@ __Auteur Theory and Cinematic Styles Analysis__
 ### Dust in the Wind
 `2020` 
 > Official Selections: Orlando International Film Fest, etc. (9 in total)
+
 > Finalist: Wales International Film Fest, Cyprus International
+
 > Award Winner: Tripvill International, Independent-Star Munich
 
 ### Bury
 `2019` 
 > Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
+
 > Finalist: Rome Prisma Film Awards
 
 ### Promise Me
 `2019` 
 > Official Selections: San Francisco Short, etc. (7 in total)
+
 > Semi-Finalist: BLASTOFF
+
 > Award Winner: Falcon International Film Fest
 
 ### Memories
 `2018` 
 > Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
+
 > Semi-Finalist: AltFF Alternative, Blow-Up Arthouse, etc. (3 in total)
+
 > Award Winner: Feel The Reel International Film Fest
 
 ### The Sword in Qin
 `2018` 
 > Official Selections: Bharat International Film Fest, etc. (6 in total) 
+
 > Semi-Finalist: ShanghaiPRIDE Film Festival
+
 > Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
 ## Employment
@@ -102,16 +112,19 @@ __Auteur Theory and Cinematic Styles Analysis__
 `2023.02-` 
 __Yalong International__ Senior Manager, Mobile Game Distribution
 > Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
+
 > Refined strategies based on user requirements to enhance business outcomes and stay ahead of industry shifts.
 
 `2021.11-2023.02` 
 __Ernst & Young EY wavespace™__ Videographer, Editor, and Designer 
 > Spearheaded video projects for clients like Shiseido, Dow, and Dior, transforming visions into visual narratives.
+
 > Led in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
 
 `2020.09-2021.10` 
 __Y-Platform (Multi-channel network)__ Producer
 > Crafted 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
+
 > Streamlined coordination among crew, influencers, and clients like Peking University and People's Daily. 
 
 `2017.03-2020.08` 
@@ -158,11 +171,17 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Technical skills
 
 * Video editing: Premiere, After Effects, DaVinci Resolve, Final Cut Pro
+
 * Audio editing: Audition, Pro Tools
+
 * Graphic design: Photoshop, Procreate, Spline, Mental Canvas 
+
 * Design tool: Figma, Adobe Illustrator
+
 * Movie budgeting/scheduling: MM Budgeting/Scheduling
+
 * 3D modeling: C4D, Blender, Unreal Engine
+
 * Programming language: Python, C++
 
 ## Language
@@ -176,7 +195,3 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 ## Certifications
 
  __ACE® Fitness Certifications - American Council on Exercise__ 
-
-<!-- ### Footer
-
-
