@@ -75,7 +75,7 @@ __Auteur Theory and Cinematic Styles Analysis__
 
 ## Film experience
 ### Dust in the Wind
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
+### [[video preview](https://vimeo.com/421269223)]
 `2020` 
 > -Official Selections: Orlando International Film Fest, etc. (9 in total)
 
