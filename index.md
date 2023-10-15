@@ -199,17 +199,21 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * After Effects
 * DaVinci Resolve
 * Final Cut Pro
+* 
 ### Audio editing
 * Audition
 * Pro Tools
+* 
 ### Graphic design
 * Photoshop
 * Procreate
 * Spline
-* Mental Canvas 
+* Mental Canvas
+* 
 ### Design tool
 * Figma
 * Adobe Illustrator
+* 
 ### Movie budgeting/scheduling
 * MM Budgeting
 * MM Scheduling
