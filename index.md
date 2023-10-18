@@ -225,20 +225,6 @@ __English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 * Python
 * C++
 
-## Technical skills
-
-* Python
-* Javascript (incl. Typescript, React)
-* R
-* Go
-* AWS
-* UNIX
-* Cluster computing
-* Docker
-* Git and GitHub
-* HTML and CSS
-* Bash
-* Agile development
   
 ## Language
 
